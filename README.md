@@ -1,2 +1,1 @@
-# jquerypluggin
-jquerypluggin
+https://mohammaddbilal.github.io/jquerypluggin/
